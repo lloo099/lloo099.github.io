@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to JJC
 
 You can use the [editor on GitHub](https://github.com/lloo099/lloo099.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
