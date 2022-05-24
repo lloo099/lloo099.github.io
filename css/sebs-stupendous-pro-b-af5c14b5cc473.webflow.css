@@ -1536,8 +1536,8 @@ figcaption {
 }
 
 .hide-tablet-mobile.image-hero {
-  width: 20%;
-  background-image: url('https://github.com/lloo099/lloo099.github.io/blob/main/images/jjc.jpeg');
+  width: 40%;
+  background-image: url('../images/jjc.jpeg');
   background-position: 0px 0px;
   background-size: cover;
 }
@@ -2078,8 +2078,8 @@ figcaption {
 
   .div-block-11 {
     width: 30vw;
-    background-image: url('https://github.com/lloo099/lloo099.github.io/blob/main/images/jjc.jpeg');
-    background-position: 20% 10%;
+    background-image: url('../images/jjc.jpeg');
+    background-position: 50% 0%;
     background-size: cover;
   }
 
@@ -2341,8 +2341,8 @@ figcaption {
     display: block;
     width: auto;
     height: 30vh;
-    background-image: url('https://github.com/lloo099/lloo099.github.io/blob/main/images/jjc.jpeg');
-    background-position: 30% -21%;
+    background-image: url('../images/jjc.jpeg');
+    background-position: 50% -21%;
     background-size: cover;
   }
 
