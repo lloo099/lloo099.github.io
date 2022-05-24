@@ -1537,7 +1537,7 @@ figcaption {
 
 .hide-tablet-mobile.image-hero {
   width: 40%;
-  background-image: url('https://github.com/lloo099/lloo099.github.io/blob/main/images/webclip-p-130x130q80.png');
+  background-image: url('https://github.com/lloo099/lloo099.github.io/blob/b1409fde8c00aff1ba82a5682f24996c7752625d/images/jjc.jpeg');
   background-position: top;
   background-size: cover;
 }
@@ -2078,8 +2078,8 @@ figcaption {
 
   .div-block-11 {
     width: 30vw;
-    background-image: url('../images/jjc.jpeg');
-    background-position: 30% 0%;
+    background-image: url('https://github.com/lloo099/lloo099.github.io/blob/b1409fde8c00aff1ba82a5682f24996c7752625d/images/jjc.jpeg');
+    background-position: left;
     background-size: cover;
   }
 
@@ -2341,7 +2341,7 @@ figcaption {
     display: block;
     width: auto;
     height: 50vh;
-    background-image: url('https://github.com/lloo099/lloo099.github.io/blob/main/images/webclip-p-130x130q80.png');
+    background-image: url('https://github.com/lloo099/lloo099.github.io/blob/b1409fde8c00aff1ba82a5682f24996c7752625d/images/jjc.jpeg');
     background-position: top;
     background-size: cover;
   }
