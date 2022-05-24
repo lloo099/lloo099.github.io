@@ -1537,7 +1537,7 @@ figcaption {
 
 .hide-tablet-mobile.image-hero {
   width: 40%;
-  background-image: url('../images/jjc.jpg');
+  background-image: url('../images/jjc.jpeg');
   background-position: 0px 0px;
   background-size: cover;
 }
@@ -2078,7 +2078,7 @@ figcaption {
 
   .div-block-11 {
     width: 40vw;
-    background-image: url('../images/jjc.jpg');
+    background-image: url('../images/jjc.jpeg');
     background-position: 50% 0%;
     background-size: cover;
   }
@@ -2341,7 +2341,7 @@ figcaption {
     display: block;
     width: auto;
     height: 30vh;
-    background-image: url('../images/jjc.jpg');
+    background-image: url('../images/jjc.jpeg');
     background-position: 50% -21%;
     background-size: cover;
   }
