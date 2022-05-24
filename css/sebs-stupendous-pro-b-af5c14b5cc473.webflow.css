@@ -1536,9 +1536,9 @@ figcaption {
 }
 
 .hide-tablet-mobile.image-hero {
-  width: 40%;
+  width: 20%;
   background-image: url('https://github.com/lloo099/lloo099.github.io/blob/main/images/jjc.jpeg');
-  background-position: 0px 10px;
+  background-position: 0px 0px;
   background-size: cover;
 }
 
@@ -2077,9 +2077,9 @@ figcaption {
   }
 
   .div-block-11 {
-    width: 40vw;
+    width: 30vw;
     background-image: url('https://github.com/lloo099/lloo099.github.io/blob/main/images/jjc.jpeg');
-    background-position: 30% 10%;
+    background-position: 20% 10%;
     background-size: cover;
   }
 
